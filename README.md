@@ -1,40 +1,13 @@
-# calculator
-	
-#include <stdio.h>
+C Programming Projects
 
-int main() {
-    int a, b, choice;
+This repository contains beginner C programs created by me.
 
-    printf("Enter first number: ");
-    scanf("%d", &a);
+Projects
 
-    printf("Enter second number: ");
-    scanf("%d", &b);
+1. Calculator
+2. Number Guessing Game
+3. Student Marks Calculator
+4. Palindrome Number Checker
+5. Simple ATM Program
 
-    printf("\nChoose operation:\n");
-    printf("1. Addition\n");
-    printf("2. Subtraction\n");
-    printf("3. Multiplication\n");
-    printf("4. Division\n");
-
-    printf("Enter your choice: ");
-    scanf("%d", &choice);
-
-    if(choice == 1) {
-        printf("Result = %d", a + b);
-    }
-    else if(choice == 2) {
-        printf("Result = %d", a - b);
-    }
-    else if(choice == 3) {
-        printf("Result = %d", a * b);
-    }
-    else if(choice == 4) {
-        printf("Result = %d", a / b);
-    }
-    else {
-        printf("Invalid choice");
-    }
-
-    return 0;
-}
+Language used: C
