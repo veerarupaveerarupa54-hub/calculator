@@ -9,5 +9,5 @@ Projects
 3. Student Marks Calculator
 4. Palindrome Number Checker
 5. Simple ATM Program
-
+6.even or odd c
 Language used: C
