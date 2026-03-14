@@ -10,5 +10,6 @@ Projects
 4. Palindrome Number Checker
 5. Simple ATM Program
 6. Even odd
+7. Stack Implementation 
 
 Language used: C
